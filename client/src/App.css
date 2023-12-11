@@ -32,8 +32,8 @@ body {
   width: 100%;
   background: #fff;
   border-radius: 10px;
-  padding: 20px; /* Add padding for better spacing inside the container */
-  margin-top: 20px; /* Add margin-top to create space between this and the above element */
+  padding: 20px;
+  margin-top: 20px; 
 }
 
 .information .information-line {
@@ -103,12 +103,11 @@ button:hover{
   padding: 8px;
   background-color: transparent;
   color: black;
-  font-weight: normal; /* Remove bold styling */
+  font-weight: normal; 
 }
 
 .employee-table th {
-  font-weight: bold; /* Add bold styling for headings only */
-  /* background-color: lightgray; Remove background color */
+  font-weight: bold; 
 }
 
 .employee-table tbody tr:nth-child(even) {
